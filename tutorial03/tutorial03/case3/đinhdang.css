@@ -1,0 +1,43 @@
+﻿body{background-image:url(background.jpg);
+ color: white; font-size:20;}
+ #links {width:20%;
+	border-style:outset;
+	border-color:white;
+	border-width:5;
+	background-color:white;
+	float:left;
+	padding-left:10;
+	margin-right:20;}
+a{text-decoration:none;
+font-size:20; color:violet;}
+a:hover{font-size:22;
+		color:green;
+		font-weight:bold;}
+#noidung{width:100%;
+	border-left: 3 solid green;
+	padding-left:20;}
+h1{width:75%;
+background-color:green;
+font-weight:bold;
+font-size:25;
+font-style:italic;
+letter-spacing:20;
+padding-left:40;
+}
+h2{width:75%;
+background-color:green;
+font-weight:bold;
+padding-left:20;}
+address {border-top: 6 double green;
+text-align:center;
+padding-top:8;}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+/*
+   New Perspectives on HTML and XHTML 5th Edition
+   Tutorial 3
+   Tutorial Case
+
+   Sunny Acres Style Sheet
+   Author: 
+   Date:   
+
+   Filename:         farm.css
+   Supporting Files: none
+
+*/
+
+h2,h3{color:green}
+address{text-align:center}
+*{
+   margin: 0 auto;
+   padding: 0;
+}
+.outer{
+   background: none;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.h2{
+   width: 80%;
+   padding-left: 0fr;
+   font-size: 0ch;
+   
+}
+
+
+
+
+
+
+
+
+

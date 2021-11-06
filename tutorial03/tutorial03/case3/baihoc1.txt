@@ -1,0 +1,11 @@
+background: 1920x1080
+backdrop: 2m x 3m
+standee: 1m6 x 60cm. hoặc 1,8m x 0,8mf
++Ấn phẩm facebook: avt: 3000 x 3000 hoặc 2000 x 2000 pixel
+		   bìa: 1958 x 745
+		   khung: 3000 x 3000
++ Poster: A4, A3,...( tên ctr, tên đơn vị, hình, tgian đăng ký, thông tin liên quan...
++ Thẻ: 7cm x 10cm >> 9cm x 12cm.
+*** Test định kỳ hàng tháng.
+ 
+Lr, Pr, Ae,..
